@@ -53,6 +53,7 @@ class _HomeScreenState extends State<HomeScreen> {
     'Linkedin',
     'WhatsApp',
     'Email',
+    'AI',
   ];
   bool _isVisible = false;
 
